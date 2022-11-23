@@ -31,4 +31,8 @@ declare_args() {
 
   # Enable Spellchecker support
   enable_builtin_spellchecker = true
+  
+  # Enable HEVC
+  enable_platform_hevc = true
+  is_chrome_branded = true
 }
